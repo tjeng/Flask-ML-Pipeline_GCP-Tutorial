@@ -10,6 +10,7 @@ This project demonstrates how a Flask ML app can be deployed on Google Cloud Pla
  - Pandas 
  - Numpy
  - Flask 
+ - Add test
 
 ### Project Structure
 All the application files are contained in the folder 'app_files'. The goal is to build an ML model using Decision Tree Classifier
